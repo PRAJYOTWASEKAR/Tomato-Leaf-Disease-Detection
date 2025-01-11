@@ -41,15 +41,16 @@ The performance of the **PCA DeepNet** system is evaluated using the following m
 - **Precision**  
 - **Recall**  
 - **F1-Score**
+---
 
-  ## 📷 Sample Images
+## 📷 Sample Images
 Here are examples of healthy and diseased tomato leaves:
 
 ### Healthy Leaf
-![Home Page](Screenshot (21).png "Home Page")
+![Home Page]( Screenshot1.png "Home Page")
 
 ### Diseased Leaf
-![Detected Page](Screenshot (23).png "Detected Page")
+![Detected Page](Screenshot2.png "Detected Page")
 
 
 ---
